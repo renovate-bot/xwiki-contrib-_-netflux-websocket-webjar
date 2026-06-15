@@ -22,7 +22,7 @@
   </parent>
   <packaging>jar</packaging>
   <artifactId>netflux-websocket-webjar</artifactId>
-  <version>1.3.2-SNAPSHOT</version>
+  <version>1.3.2</version>
   <name>Netflux WebSocket WebJar</name>
   <description>WebJar packaging for Netflux WebSocket</description>
   <url>https://github.com/cryptpad/netflux-websocket</url>
@@ -52,7 +52,7 @@
     <url>http://github.com/xwiki-contrib/${project.artifactId}</url>
     <connection>scm:git:git://github.com/xwiki-contrib/${project.artifactId}.git</connection>
     <developerConnection>scm:git:git@github.com:xwiki-contrib/${project.artifactId}.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>netflux-websocket-webjar-1.3.2</tag>
   </scm>
   <build>
     <plugins>
